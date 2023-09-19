@@ -1,6 +1,6 @@
 {
   "template": "git@github.com:julcsii/simple-ml-template.git",
-  "commit": "e3e8a715524591075a795bfdeb24f902b4c27101",
+  "commit": "b5ad46e52f3d3db5403657e2cfe21f2ad421917e",
   "checkout": null,
   "context": {
     "cookiecutter": {
