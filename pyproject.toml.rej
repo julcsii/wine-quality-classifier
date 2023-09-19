@@ -1,0 +1,24 @@
+diff a/pyproject.toml b/pyproject.toml	(rejected hunks)
+@@ -3,20 +3,19 @@ name = "wine_quality_classification"
+ version = "0.1.0"
+ authors = ["Julia Hermann"]
+ readme = "README.md"
++description = ""
+ 
+ [tool.poetry.dependencies]
+ python = "^3.10"
+-jupyter = "^4.0"
++jupyter = "^1.0"
+ matplotlib = "^3.8"
+ mlflow = "^2.7"
+-numpy = "^1.26"
+ omegaconf = "^2.3"
+ pandas = "^2.1"
+ python-dotenv = "^1.0"
+ scikit-learn = "^1.3"
+ xgboost = "^2.0"
+ 
+-
+ [build-system]
+ requires = ["poetry-core"]
+ build-backend = "poetry.core.masonry.api"

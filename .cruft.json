@@ -1,0 +1,15 @@
+{
+  "template": "git@github.com:julcsii/simple-ml-template.git",
+  "commit": "e3e8a715524591075a795bfdeb24f902b4c27101",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Wine Quality Classification",
+      "project_slug": "wine_quality_classification",
+      "authors": "Julia Hermann",
+      "project_description": "",
+      "_template": "git@github.com:julcsii/simple-ml-template.git"
+    }
+  },
+  "directory": null
+}
